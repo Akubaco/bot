@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/redirect-to-google",
-        "destination": "https://cs8921-safepge.ubntddns.com/?signin",
+        "destination": "https://amazon.com",
         "permanent": true
       },
       {
