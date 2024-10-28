@@ -1,0 +1,15 @@
+{
+    "redirects": [
+      {
+        "source": "/redirect-to-google",
+        "destination": "https://www.google.com",
+        "permanent": true
+      },
+      {
+        "source": "/redirect-to-facebook",
+        "destination": "https://www.facebook.com",
+        "permanent": false
+      }
+    ]
+  }
+  
